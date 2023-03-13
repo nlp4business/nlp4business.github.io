@@ -5811,3 +5811,16 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+.slides-title{  
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  border-top: 1px dotted white;
+
+}
+
+.download-pdf{
+  color: white;
+  text-decoration: underline;
+}
